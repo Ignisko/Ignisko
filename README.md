@@ -4,7 +4,7 @@
 
 🔍 Focus: Finance, Emerging Markets, Asia
 
-🎓 Learning: Coding, Fintech
+🎓 Learning: Coding, Psychology
 
 🤝 Collab: Open for projects
 
