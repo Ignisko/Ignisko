@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Ignisko
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning how to dive into the IT world
-- 💞️ I’m looking to collaborate on a new project
-- 📫 How to reach me: quickly
+👋🏼 Hi, I'm @Ignisko
 
-<!---
-Ignisko/Ignisko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🖥️ Tech: Python, SQL, Web Dev
+
+🔍 Focus: Finance, Emerging Markets, Asia
+
+🎓 Learning: Coding, Fintech
+
+🤝 Collab: Open for projects
+
+📧 Contact: ignacyjanuszek@gmail.com
