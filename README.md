@@ -2,7 +2,7 @@
 
 🖥️ Tech: Python, JS, SQL, Web Dev, C++ Solana
 
-🔍 Decision making % underwater robotics
+🔍 Decision making & underwater robotics
 
 🤝 Collab: Open for projects
 
