@@ -1,10 +1,8 @@
 👋🏼 Hi, I'm @Ignisko
 
-🖥️ Tech: Python, SQL, Web Dev
+🖥️ Tech: Python, JS, SQL, Web Dev, C++ Solana
 
-🔍 Focus: Finance, Emerging Markets, Asia
-
-🎓 Learning: Coding, Psychology
+🔍 Decision making % underwater robotics
 
 🤝 Collab: Open for projects
 
