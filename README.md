@@ -6,4 +6,4 @@
 
 🤝 Collab: Open for projects
 
-📧 Contact: ignacyjanuszek@gmail.com
+📧 Contact: iggyspolski@gmail.com
