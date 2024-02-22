@@ -1,9 +1,5 @@
-👋🏼 Hi, I'm @Ignisko
+Hi, I'm Iggy! 🌊 
 
-🖥️ Tech: Python, JS, SQL, Web Dev, C++ Solana
-
-🔍 Decision making & underwater robotics
-
-🤝 Collab: Open for projects
-
-📧 Contact: iggyspolski@gmail.com
+Deep-diving into tech with Python, SQL, Web Dev, and C++.
+🤿 Open to collab 
+📧  iggyspolski@gmail.com
