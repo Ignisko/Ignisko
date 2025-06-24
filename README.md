@@ -1,7 +1,8 @@
-Hi, I'm Iggy! 🌊 
+ciao, i’m iggy 🌊
+building simple, tough tech — from underwater robots to ai tools for blue collar crews.
+sailing through uncertainty, one working prototype at a time.
 
-Deep-diving into tech with Python, SQL, Web Dev and learning new things daily 
+🤝 looking for engineers, tinkerers & builders
 
-🤿 Open to collab 
+📧 iggyspolski@gmail.com
 
-📧  iggyspolski@gmail.com
